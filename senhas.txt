@@ -1,0 +1,4 @@
+aluno : email = ferdrun@hotmail.com
+        senha = ferdrun@hotmail.com
+usuario do painel : email = ferdrun@hotmail.com
+                    senha = ferdrun@hotmail.com
